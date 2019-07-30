@@ -10,3 +10,10 @@ git clone https://github.com/do-sch/gtk_onenote_wrapper.git
 cd gtk_onenote_wrapper
 cargo run
 ```
+
+# Screenshots
+### Files overview
+![](screenshots/files.png)
+
+### Editor
+![](screenshots/editor.png)
