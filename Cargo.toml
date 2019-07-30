@@ -1,0 +1,11 @@
+[package]
+name = "gtk_onenote_wrapper"
+version = "0.1.0"
+authors = ["Dominik Schütz <do.sch.dev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gtk = { version = "0.5.0", features = ["v3_18"] }
+gio = "0.5.0"
+glib = "0.6"
+webkit2gtk = "0.5.1"
