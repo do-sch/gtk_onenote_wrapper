@@ -2,7 +2,7 @@
 Rust test to create a gtk wrapper around Microsoft OneNote Online
 
 The wrapper has stopped working since Microsoft applied changes to the user interface.
-But it's source code might help Rust and GTK friends to start development.
+But its source code might help Rust and GTK friends to start development.
 
 ### Testing
 ```
